@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- A simple Tic-Tac-Toe made in Javascript
+ A simple Tic-Tac-Toe made in Javascript.
