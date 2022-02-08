@@ -4,5 +4,5 @@
 
 ## Interface 
 <h1 align="center">
-    <img alt="Doe_GIF" title="Doe_Interface_GIF" src="github/Doe_Website_GIF.gif">
+    <img alt="Tic_Tac_Toe_GIF" title="Tic_Tac_Toe_GIF" src="github/tic_tac_toe.gif">
 </h1>
