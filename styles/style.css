@@ -19,6 +19,10 @@ h2{
     display: inline-block;
 }
 
+.square:hover{
+    cursor: pointer;
+}
+
 .o{
     position: relative;
 }
