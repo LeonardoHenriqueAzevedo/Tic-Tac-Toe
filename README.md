@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
- A simple Tic-Tac-Toe made in Javascript.
+# ✔️ Project
+ A Tic-Tac-Toe to play with your friend.
